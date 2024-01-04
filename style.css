@@ -1,6 +1,7 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #ddc9c9;
+  /*background-color: #ddc9c9;*/
+  background-color: #ffdabf;
 }
 
 h1 {
@@ -11,7 +12,7 @@ h1 {
 .calculadora {
   width: 314px;
   margin: 0 auto;
-  background-color: #fff;
+  background-color: #e88087;
   padding: 20px;
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -38,7 +39,7 @@ input[type="button"] {
 }
 
 input[type="button"]:hover {
-  background-color: #ddd;
+  background-color: #c7c4c4;
 }
 
 input[type="button"]:last-child {
